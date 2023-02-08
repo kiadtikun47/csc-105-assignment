@@ -1,0 +1,38 @@
+.box {
+position: absolute;
+    background-color: #DAEAF6;
+    border: 10px solid #0a5aca;
+    border-radius: 12px;
+    width: 550px;
+    height: 300px;
+    top: 50%;
+    left: 50%;
+    margin-top: -150px;
+    margin-left: -275px;
+}
+.img1{
+    height: 80%;
+    position: relative;  
+    top: 25px;
+    left: 20px;
+    border: 5px solid #0c76bd;
+}
+.img2{
+    width: 5%;
+    position: relative;
+    top:416px;
+    left:800px;
+}
+.img3{
+    position: relative;
+    width: 5%;
+    top:416px;
+    left:850px;
+}
+.text {
+    color: rgb(12, 99, 214);
+    float :right;
+    margin-right: 500px;
+    margin-top: 205px;
+    position: relative;
+}
